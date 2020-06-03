@@ -1,4 +1,4 @@
-# Problem Set 1
+# Problem Set 2
 In this set, I have used Linear regression on the data set and used cross-validation to analyze the results.  
 In addition to computing and applying the close-form solution, also implemented from scratch a gradient descent algorithm for linear regression.  
 The code is written in MATLAB and Data Set: http://cvc.cs.yale.edu/cvc/projects/yalefaces/yalefaces.html  
