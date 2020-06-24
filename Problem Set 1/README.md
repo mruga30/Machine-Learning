@@ -6,7 +6,7 @@ The code is written in MATLAB and Data Set: http://cvc.cs.yale.edu/cvc/projects/
 Dimensionality reduction on data via PCA.
 
 #### hw1_part3
-Perfomring PCA and Reconstructing the data to visualize if there is any difference in the images.
+Performing PCA and Reconstructing the data to visualize if there is any difference in the images.
 
 #### hw1_part4
 Implemented K-means clustering of the data. Built from scratch.
